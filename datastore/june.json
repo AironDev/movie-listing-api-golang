@@ -1,0 +1,22 @@
+{
+  "model": [
+    {
+      "title": "The Unmashaller",
+      "id": "1",
+      "director": {
+        "firstname": "John",
+        "lastname": "Doe"
+      }
+    },
+
+    {
+      "title": "The Unmasker",
+      "id": "2",
+      "director": {
+        "firstname": "John",
+        "lastname": "Kepp"
+      }
+    }
+
+  ]
+}
